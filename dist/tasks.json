@@ -1,0 +1,14 @@
+[
+    {
+        "id": "3d6d59e8-d685-463e-87eb-941a024b554f",
+        "title": "Написать Python приложение",
+        "quadrant": "urgent_important",
+        "completed": false
+    },
+    {
+        "id": "41430194-ef85-417c-a3cb-b5d7c2c7c983",
+        "title": "Стать вайбкодером и зарабатывать миллионф",
+        "quadrant": "not_urgent_important",
+        "completed": false
+    }
+]
